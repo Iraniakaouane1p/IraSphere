@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111455655869",
+    "project_id": "irasphere",
+    "storage_bucket": "irasphere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111455655869:android:7799b78cd0be750e36e4d4",
+        "android_client_info": {
+          "package_name": "com.example.irasphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-WvjKC4ph1mbeYcnE9jRL6x5HiIbPd08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
